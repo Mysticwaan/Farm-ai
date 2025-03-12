@@ -1,7 +1,9 @@
-# <img src="https://github.com/user-attachments/assets/6ff5c071-9d2f-4d8b-a9b4-28a43bc55665" alt="logo" width="100" height="100"> FARM🌾AI
+# <img src="https://github.com/user-attachments/assets/6ff5c071-9d2f-4d8b-a9b4-28a43bc55665" alt="logo" width="100" height="100"> [FARM🌾AI](https://robofarm002.netlify.app/)
 
 
 *Cultivating Sustainable Crop Production with AI*
+
+![Robots+in+Agriculture+and+Farming+-+Photo+1-640w](https://github.com/user-attachments/assets/0ab5e1f7-70a7-4712-b854-091f7ea06bb6)
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
@@ -19,7 +21,7 @@
 
 ## Overview
 
-Empowering small-scale farmers with AI-driven insights, personalized recommendations, and community support.
+FARM🌾AI provides small-scale farmers with AI-driven insights from satellite imagery and farm-specific data to optimize agricultural practices. Our platform delivers personalized recommendations for planting times, crop selection, and risk mitigation strategies to address challenges posed by climate change. By bridging the technology gap for farming communities, we empower producers to improve yields and contribute to sustainable global food security.
 
 [![Explore Features](https://img.shields.io/badge/Explore-Features-orange)](#key-features)
 [![Get Started](https://img.shields.io/badge/Get-Started-brightgreen)](#how-it-works)
@@ -30,25 +32,29 @@ Empowering small-scale farmers with AI-driven insights, personalized recommendat
 
 ### Personalized Dashboard
 
-![Personalized Dashboard](https://via.placeholder.com/600x300)
+![Personalized Dashboard](https://github.com/user-attachments/assets/abcab151-1ee6-421b-b736-809b79ff9064)
+
 
 - **AI-Powered Recommendations**: Receive insights on planting times, crop selection, and risk mitigation tailored to your farm data.
 
 ### AI Farm Analysis
 
-![AI Farm Analysis](https://via.placeholder.com/600x300)
+![AI Farm Analysis](https://github.com/user-attachments/assets/a67e0c3e-6a37-47b8-a2cf-51b96e0dd557)
+
 
 - **Data Integration**: Upload satellite images or connect IoT sensors for real-time insights on soil health, crop growth, and irrigation needs.
 
 ### Resource & Credit Access
 
-![Resource & Credit](https://via.placeholder.com/600x300)
+![Resource & Credit](https://github.com/user-attachments/assets/8d2e352c-0777-457a-8120-4cf709394e36)
+
 
 - **Financing Options**: Explore financing opportunities, agricultural resources, and a database of government grants and subsidies.
 
 ### Community Hub
 
-![Community Hub](https://via.placeholder.com/600x300)
+![Community Hub](https://github.com/user-attachments/assets/6369bdbc-afff-47f4-b77b-1e615fc8651f)
+
 
 - **Connect & Learn**: Engage with other farmers, share best practices, and access training modules on AI-driven farming techniques.
 
