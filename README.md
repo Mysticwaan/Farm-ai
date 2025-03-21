@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/6ff5c071-9d2f-4d8b-a9b4-28a43bc55665" alt="logo" width="100" height="100"> [FARM🌾AI](https://robofarm002.netlify.app/)
+# <img src="https://github.com/user-attachments/assets/6ff5c071-9d2f-4d8b-a9b4-28a43bc55665" alt="logo" width="100" height="100"> [FARM🌾AI](https://robotfarm002.netlify.app/)
 
 
 *Cultivating Sustainable Crop Production with AI*
